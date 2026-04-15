@@ -17,6 +17,14 @@ This project focuses on analyzing store-related data to identify patterns, trend
 - Correlation Heatmap
 - Basic Machine Learning (Linear Regression)
 
+## 📊 Visualizations
+
+### Distribution Plot
+![Distribution](distribution_plot.png)
+
+### Correlation Heatmap
+![Heatmap](correlation_heatmap.png)
+
 ## 🔍 Insights
 - Most variables show weak correlation with each other
 - Data distribution highlights consistent patterns across observations
